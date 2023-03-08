@@ -1,5 +1,6 @@
 # Personalized-Workout-Generator
-A JavaScript console application that will create a workout based on specified muscle groups to work, as well as a duration in hours:
+
+A JavaScript console application that will create a workout based on specified muscle groups to work, as well as a duration in hours. This program is designed to run in tandem with a simple html/css front end, run with the live server extension in vscode, with the output results being displayed in the webpage console within the developer tools:
 
 - This project is comprised of 4 files:
 
